@@ -1,3 +1,4 @@
+(jedna aplikacija)
 1. extractati grimdawn i za_napraviti foldere u npr. C:\xampp\htdocs
 2. napraviti bazu "grimdawn" 
 3. importat "grimdawn.sql" iz rar filea

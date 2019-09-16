@@ -1,0 +1,1 @@
+localhost/Seminar (ako ne radi onda maknuti :8080 jer je ostalo iz algebre taj port)
