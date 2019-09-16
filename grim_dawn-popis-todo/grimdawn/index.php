@@ -23,7 +23,7 @@ $result = $link->query($sql);
             <div class="col-md-12">
                 <div class="card" style="margin-top: 20px;margin-bottom: 20px;">
                     <div class="card-body">
-                        <h2 class="pull-left">Popis Likova <a href="create.php" class="btn btn-success pull-right">Dodaj novog lika</a><a href="http://localhost/za_napraviti/index.php" target="new" class="btn btn-success pull-right">Todo lista</a></h2>
+                        <h2 class="pull-left">Popis Likova <a href="create.php" class="btn btn-success pull-right">Dodaj novog lika</a><a href="http://localhost/za_napraviti/index.php" target="new" class="btn btn-success pull-right">To-do lista</a></h2>
                     </div>
                 </div>
                 <?php
